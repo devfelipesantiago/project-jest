@@ -8,33 +8,6 @@ Você já usa o GitHub diariamente para desenvolver os exercícios, certo? Agora
 
 Aqui você vai encontrar os detalhes de como estruturar o desenvolvimento do seu projeto a partir desse repositório, utilizando uma branch específica e um _Pull Request_ para colocar seus códigos.
 
----
-
-# Sumário
-- [Boas vindas ao repositório do projeto de Jest Assíncrono e Mocking!](#boas-vindas-ao-repositório-do-projeto-de-jest-assíncrono-e-mocking)
-- [Sumário](#sumário)
-- [Habilidades](#habilidades)
-- [Entregáveis](#entregáveis)
-  - [O que deverá ser desenvolvido](#o-que-deverá-ser-desenvolvido)
-  - [Desenvolvimento](#desenvolvimento)
-  - [Data de entrega](#data-de-entrega)
-- [Instruções para entregar seu projeto:](#instruções-para-entregar-seu-projeto)
-  - [Antes de começar a desenvolver](#antes-de-começar-a-desenvolver)
-  - [Durante o desenvolvimento](#durante-o-desenvolvimento)
-  - [Depois de terminar o desenvolvimento (opcional)](#depois-de-terminar-o-desenvolvimento-opcional)
-    - [Revisando um pull request](#revisando-um-pull-request)
-- [Como desenvolver](#como-desenvolver)
-  - [Code Climate](#code-climate)
-- [Requisitos do projeto](#requisitos-do-projeto)
-  - [Lista de requisitos](#lista-de-requisitos)
-    - [1 - Crie testes para uma função assíncrona](#1-crie-testes-para-uma-função-assíncrona)
-    - [2 - Crie um "Mock" no arquivo test/mockFunctions.spec.js](#2-Crie-um-"Mock"-no-arquivo-test/mockFunctions.spec.js)
-    - [3 - Crie um Mock para o retorno da API](#3-Crie-um-Mock-para-o-retorno-da-API)
-    - [4 - Crie funções no arquivo test/setupTeardown.spec.js](#4-Crie-funções-no-arquivo-test/setupTeardown.spec.js)
-- [Avisos finais](#avisos-finais)
-
----
-
 ## O que deverá ser desenvolvido
 
 Neste projeto, você irá implementar testes utilizando o **Jest** para verificar se uma série de funções estão funcionando corretamente. Você colocará em prática todo o conteúdo que aprendeu sobre Jest assíncrono e Mocks aplicados a testes em Javascript.
